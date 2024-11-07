@@ -1,0 +1,12 @@
+Code	Indicator Name
+NY.GDP.PCAP.PP.CD	GDP per capita, PPP (current international $)
+SP.POP.TOTL	Population, total
+BAR.TER.CMPT.15UP.ZS	Barro-Lee: Percentage of population age 15+ with tertiary schooling. Completed Tertiary
+SE.ADT.LITR.ZS	Adult literacy rate, population 15+ years, both sexes (%)
+BAR.SEC.CMPT.15UP.ZS	Barro-Lee: Percentage of population age 15+ with secondary schooling. Completed Secondary
+BAR.PRM.CMPT.15UP.ZS	Barro-Lee: Percentage of population age 15+ with primary schooling. Completed Primary
+LO.PIAAC.NUM.YOU.45	PIAAC: Young adults by numeracy proficiency level (%). Level 4 & 5
+LO.PIAAC.TEC.3	PIAAC: Adults by proficiency level in problem solving in technology-rich environments (%). Level 3
+LO.PIAAC.NUM.5	PIAAC: Adults by numeracy proficiency level (%). Level 5
+LO.PIAAC.NUM.4	PIAAC: Adults by numeracy proficiency level (%). Level 4
+SE.TER.GRAD.SC.ZS	Percentage of graduates from tertiary education graduating from Natural Sciences, Mathematics and Statistics programmes, both sexes (%)
